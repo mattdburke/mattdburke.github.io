@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Matt Burke"
-  avatar           : "/files/profile.jpg"    #"profile.png""
+  avatar           : "/files/profile.JPG"    #"profile.png""
   bio              : "Senior Lecturer in Finance at Sheffield Hallam University"
   location         : "Sheffield"
   employer         :
