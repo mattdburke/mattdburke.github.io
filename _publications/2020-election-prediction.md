@@ -5,11 +5,11 @@ permalink: /publication/01/04/2020-election-prediction
 excerpt: 'Election forecasting errors appear chiefly due to the mode of extracting outcomes from the polled share of the vote.'
 date: 01/04/2020
 venue: 'Quantitative Finance'
-paperurl: 'http://mattdburke.github.io/files/QF5.pdf'
+paperurl: 'https://doi.org/10.1080/14697688.2020.1757136'
 citation: 'Fry, J., &amp; Burke, M. (2020). An options-pricing approach to election prediction. Quantitative Finance, 20(10), 1583-1589.'
 ---
 Election forecasting errors appear chiefly due to the mode of extracting outcomes from the polled share of the vote.
 
-[Download paper here](http://mattdburke.github.io/files/QF5.pdf)
+[Download paper here](https://doi.org/10.1080/14697688.2020.1757136)
 
 Recommended citation: Fry, J., & Burke, M. (2020). An options-pricing approach to election prediction. Quantitative Finance, 20(10), 1583-1589.

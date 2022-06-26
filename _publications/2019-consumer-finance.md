@@ -5,11 +5,11 @@ permalink: /publication/24/01/2019-consumer-finance
 excerpt: 'We ask if consumer finance websites are easy enough to understand. Our results show that all consumer finance websites are hard to read.'
 date: 24/01/2019
 venue: 'Economics Letters'
-paperurl: 'http://mattdburke.github.io/files/BurkeFry8.pdf'
+paperurl: 'https://doi.org/10.1016/j.econlet.2019.01.004'
 citation: 'Burke, M., &amp; Fry, J. (2019). How easy is it to understand consumer finance?. Economics Letters, 177, 1-4.'
 ---
 We ask if consumer finance websites are easy enough to understand. Our results show that all consumer finance websites are hard to read.
 
-[Download paper here](http://mattdburke.github.io/files/BurkeFry8.pdf)
+[Download paper here](https://doi.org/10.1016/j.econlet.2019.01.004)
 
 Recommended citation: Burke, M., & Fry, J. (2019). How easy is it to understand consumer finance?. Economics Letters, 177, 1-4.
