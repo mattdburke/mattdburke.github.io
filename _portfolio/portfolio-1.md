@@ -1,6 +1,6 @@
 ---
 title: "Nature Loss and Sovereign Credit Ratings Report"
-excerpt: The world's first biodiversity-adjusted sovereign credit ratings<br/><img src='/images/NatureLossSovereignCard.jpg'>
+excerpt: <img src='/images/NatureLossSovereignCard.jpg'>
 collection: portfolio
 ---
 
