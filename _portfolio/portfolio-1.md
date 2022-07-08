@@ -1,6 +1,6 @@
 ---
 title: "Nature Loss and Sovereign Credit Ratings Report"
-excerpt: "Burke.png'>"
+excerpt: "Burke.png"
 collection: portfolio
 ---
 
