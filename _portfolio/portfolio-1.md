@@ -1,6 +1,6 @@
 ---
 title: "Nature Loss and Sovereign Credit Ratings Report"
-excerpt: "Burke.png"
+excerpt: The world's first biodiversity-adjusted sovereign credit ratings<br/><img src='/images/Burke.png'>
 collection: portfolio
 ---
 
