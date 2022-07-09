@@ -12,6 +12,6 @@ If parts of the world see a “partial ecosystems collapse” of fisheries, trop
 
 Across the 26 countries, these downgrades would increase the annual interest payment on debt by up to US$53 billion a year, leaving many developing nations at significant risk of sovereign debt default – in effect, bankruptcy.
 
-This research was featured in [`Bloomberg`](https://www.bloomberg.com/news/articles/2022-06-22/biodiversity-loss-may-push-developing-world-closer-to-default) and [`Reuters`](https://www.reuters.com/business/sustainable-business/mass-biodiversity-loss-would-slash-global-credit-ratings-report-warns-2022-06-22/).
+This research was featured in [Bloomberg](https://www.bloomberg.com/news/articles/2022-06-22/biodiversity-loss-may-push-developing-world-closer-to-default) and [Reuters](https://www.reuters.com/business/sustainable-business/mass-biodiversity-loss-would-slash-global-credit-ratings-report-warns-2022-06-22/).
 
 Click [here](https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2022/06/NatureLossSovereignCreditRatings.pdf) to download the report.
