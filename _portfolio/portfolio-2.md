@@ -1,11 +1,17 @@
 ---
-title: "Climate Change and Sovereign Credit Ratings Working Paper"
-excerpt: <img src='/images/RTFRthumb.jpg'>
+title: "Nature Loss and Sovereign Credit Ratings Report"
+excerpt: <img src='/images/NatureLossSovereignCard.jpg'>
 collection: portfolio
 ---
 
-Enthusiasm for ‘greening the financial system’ is welcome, but a fundamental challenge remains: financial decision makers lack the necessary information. It is not enough to know that climate change is bad. Markets need credible, digestible information on how climate change translates into material risks. To bridge the gap between climate science and real-world financial indicators, we simulate the effect of climate change on sovereign credit ratings for 109 countries, creating the world’s first climate-adjusted sovereign credit rating. 
+The world's first biodiversity-adjusted sovereign credit ratings shows how ecological destruction affects public finances – driving downgrades, debt crises and soaring borrowing costs, according to a team of economists led by Cambridge University.
 
-This research was featured in [Bloomberg](https://www.bloomberg.com/news/articles/2021-03-18/sovereign-rating-cuts-coming-to-those-who-ignore-climate-change?sref=LF4anohE), [CNBC](https://twitter.com/CNBCi/status/1381894932798054401), [Financial Times](https://www.ft.com/content/8fa51ec0-0396-477a-9d06-0854995621f5), [New York Times](https://www.nytimes.com/2021/04/07/climate/debt-climate-change.html?utm_source=Twitter&utm_medium=social&utm_campaign=Orlo), [The Guardian](https://www.theguardian.com/business/2021/mar/18/uk-us-and-others-face-credit-rating-fall-over-co2-emissions-study), [Reuters](https://www.reuters.com/article/us-climate-change-ratings-idUSKBN2BA2XW) and [VoxEU](https://voxeu.org/article/rising-temperatures-melting-ratings). For a full report of the media coverage on this report please see this [link](https://www.bennettinstitute.cam.ac.uk/blog/sovereign_debt_downgrades_in_store_with_climate/).
+Loss of plant and animal species may already be set to cause major sovereign downgrades, with China and Indonesia on course to drop two notches as early as 2030 under a business-as-usual scenario.
 
-Click [here](https://www.repository.cam.ac.uk/bitstream/handle/1810/322532/cwpe2127.pdf?sequence=1) to download the paper.
+If parts of the world see a “partial ecosystems collapse” of fisheries, tropical timber production and wild pollination – as simulated by the World Bank – then more than half the 26 nations studied would face downgrades, with India falling four notches and China plummeting by six on the 20-notch scale.
+
+Across the 26 countries, these downgrades would increase the annual interest payment on debt by up to US$53 billion a year, leaving many developing nations at significant risk of sovereign debt default – in effect, bankruptcy.
+
+This research was featured in [Bloomberg](https://www.bloomberg.com/news/articles/2022-06-22/biodiversity-loss-may-push-developing-world-closer-to-default) and [Reuters](https://www.reuters.com/business/sustainable-business/mass-biodiversity-loss-would-slash-global-credit-ratings-report-warns-2022-06-22/).
+
+Click [here](https://www.bennettinstitute.cam.ac.uk/wp-content/uploads/2022/06/NatureLossSovereignCreditRatings.pdf) to download the report.
