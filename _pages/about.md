@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Lecturer in Finance at Sheffield Hallam University. My primary interests are in Asset Pricing, Behavioural Finance, Climate/Green Finance and Bouldering. I use this website to signpost to code repositories, showcase published research and host various teaching materials. 
+I am a Senior Lecturer in Finance at Sheffield Hallam University. My primary interests are in asset pricing, behavioural finance, climate/green finance and bouldering. I use this website to signpost to code repositories, showcase published research and host various teaching materials. 
 
