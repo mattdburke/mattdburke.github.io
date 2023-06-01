@@ -8,5 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Lecturer in Finance at Sheffield Hallam University. My primary interests are in asset pricing, behavioural finance, climate/green finance and bouldering. I use this website to signpost to code repositories, showcase published research and host various teaching materials. 
-
+I am the WTW Research Fellow at the Smith School of Enterprise and the Environment at the University of Oxford. My research focuses on the economics and finance of climate change and biodiversity loss. I use this website to signpost to code repositories, showcase published research and host various teaching materials.
