@@ -11,5 +11,3 @@ citation: 'Burke, M., Fry, J., Kemp, S., &amp; Woodhouse, D. (2022). Attention t
 In this paper we investigate the predictability of cryptocurrency returns following increases in Covid-19 cases/deaths. We find that the rate of government intervention moderates the impact that Covid-19 cases/deaths have on cryptocurrency returns. We show that in periods of tightening government intervention, increases in Covid-19 cases positively predict cryptocurrency returns. We argue that this is due to investors imputing their expectations of the pandemic through a &apos;combined&apos; signal.
 
 [Download paper here](https://doi.org/10.1016/j.frl.2022.103081)
-
-Recommended citation: Burke, M., Fry, J., Kemp, S., & Woodhouse, D. (2022). Attention to Authority: The behavioural finance of Covid-19. Finance Research Letters. 103081

@@ -11,5 +11,3 @@ citation: 'Fry, J., &amp; Burke, M. (2020). An options-pricing approach to elect
 Election forecasting errors appear chiefly due to the mode of extracting outcomes from the polled share of the vote.
 
 [Download paper here](https://doi.org/10.1080/14697688.2020.1757136)
-
-Recommended citation: Fry, J., & Burke, M. (2020). An options-pricing approach to election prediction. Quantitative Finance, 20(10), 1583-1589.

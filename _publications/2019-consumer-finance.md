@@ -11,5 +11,3 @@ citation: 'Burke, M., &amp; Fry, J. (2019). How easy is it to understand consume
 We ask if consumer finance websites are easy enough to understand. Our results show that all consumer finance websites are hard to read.
 
 [Download paper here](https://doi.org/10.1016/j.econlet.2019.01.004)
-
-Recommended citation: Burke, M., & Fry, J. (2019). How easy is it to understand consumer finance?. Economics Letters, 177, 1-4.
