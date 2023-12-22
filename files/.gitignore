@@ -1,0 +1,6 @@
+*.tex
+*.blg
+*.log
+*.bbl
+*.aux
+*.synctex.gz
