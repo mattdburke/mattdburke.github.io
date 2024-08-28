@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Matt Burke"
   avatar           : "mb.png"    #"profile.png""
-  bio              : "Research Fellow at the University of Oxford"
+  bio              : "Lecturer in Finance at the University of Sheffield"
   # bio              : "Senior Lecturer in Finance at Sheffield Hallam University"
-  location         : "Sheffield/Oxford"
+  location         : "Sheffield"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.uk/citations?user=adErgHMAAAAJ&hl=en"
-  email            :  "matt.burke@smithschool.ox.ac.uk"
+  email            :  "matt.burke@sheffield.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
