@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Matt Burke"
   avatar           : "mb.png"    #"profile.png""
-  bio              : "Lecturer in Finance at the [University of Sheffield](https://sheffield.ac.uk/management/people/academic-staff/afm/matt-burke) \n Theme Lead at climaTRACES, [University of Cambridge](https://climatraces.org/) \n Advisor, Earth Capital Nexus, Grantham Research Institute, [London School of Economics](https://www.lse.ac.uk/granthaminstitute/profile/matt-burke/)"
+  bio              : "Lecturer in Finance at the <a href='https://sheffield.ac.uk/management/people/academic-staff/afm/matt-burke'>University of Sheffield</a>. \nTheme Lead at climaTRACES, <a href='https://climatraces.org/'>University of Cambridge</a>. \nAdvisor, Earth Capital Nexus, Grantham Research Institute, <a href='https://www.lse.ac.uk/granthaminstitute/profile/matt-burke/'>London School of Economics</a>."
   # bio              : "Senior Lecturer in Finance at Sheffield Hallam University"
   location         : "Sheffield"
   employer         :
