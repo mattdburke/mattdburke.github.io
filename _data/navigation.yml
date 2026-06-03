@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Research Papers"
-    url: https://scholar.google.co.uk/citations?user=adErgHMAAAAJ&hl=en
+  # - title: "Research Papers"
+  #   url: https://scholar.google.co.uk/citations?user=adErgHMAAAAJ&hl=en
 
   # - title: "Talks"
   #   url: /talks/    
